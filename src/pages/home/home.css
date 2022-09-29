@@ -1,0 +1,22 @@
+.home__hero{
+    padding: 161px 144px 150px;
+    background-color: var(--color-primary-variant);
+}
+.hero__info{
+    color: var(--color-white);
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero__text{
+    width: 721px;
+}
+
+.hero__text h3{
+    font-weight:400;
+    line-height: 3rem;
+}
+
+.hero__img{
+    width: 448.53px;
+}
