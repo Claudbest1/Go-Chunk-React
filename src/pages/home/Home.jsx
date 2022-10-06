@@ -30,7 +30,7 @@ const Home = () => {
           <h3>Upload, Split, Download or Save your data files for later.<br />All for FREE</h3>
           <button className='header__btn'>CHUNK FILES</button>
         </div>
-        <img src={heroImg} alt="hero image" className='hero__img'/>
+        <img src={heroImg} alt="" className='hero__img'/>
       </div>
     </header>
       {/* //End of Hero section */}
